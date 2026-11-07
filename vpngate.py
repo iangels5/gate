@@ -51,27 +51,40 @@ DEFAULT_VPNGATE_API = "http://www.vpngate.net/api/iphone/"
 DEFAULT_VPNGATE_MIRROR = (
     "https://raw.githubusercontent.com/fdciabdul/Vpngate-Scraper-API/main/json/data.json"
 )
-DEFAULT_OPTIMAL_API = ""
+DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/ct?ips=6&port=443"
 
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "ahrefs.com:8443",
+    "www.mastervolt.com:8443",
+    "prizepicks.com:2053",
+    "www.broadcom.com:2096",
+    "www.shopify.com:8443",
+    "guide.for.edu.sg:2053",
+    "academy.7shifts.com:443",
+    "cdn.7zz.cn:2096",
+    "stores.staples.com:8443",
+    "markmonitor.com:2053",
+    "www.jp.pima.gov:2087",
+    "www.bis.gov:8443",
+    "cdn.204910.best:2053",
+    "m.iyf.tv:2087",
+    "spring.io:2096",
+    "versantstore.pearson.com:2087",
+    "coreweave.com:2083",
+    "cf.3666888.xyz:2087",
+    "www.crazygames.fr:2083",
+    "www.dentoncounty.gov:2083",
+    "cf.xreak.top:443",
+    "www.giannidelprete.it:443",
+    "www.wuduanyun.com:8443",
+    "www.mfyx.cn:2087",
+    "bbs.alipansou.com:2087", 
+    "baota.us.kg:2083", 
+    "jellyfin.roddy.eu.cc:443", 
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
