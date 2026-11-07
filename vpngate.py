@@ -82,9 +82,9 @@ DEFAULT_EDGE_HOSTS = [
     "www.giannidelprete.it:443",
     "www.wuduanyun.com:8443",
     "www.mfyx.cn:2087",
-    "bbs.alipansou.com:2087", 
-    "baota.us.kg:2083", 
-    "jellyfin.roddy.eu.cc:443", 
+    "bbs.alipansou.com:2087",
+    "baota.us.kg:2083",
+    "jellyfin.roddy.eu.cc:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
